@@ -4,6 +4,8 @@ if a>b:
     print("a is greater")
 else:
     print("b is greater")
+else if:
+    print("a and b is greater")
 
 a=int(input("enter any number"))
 b=int(input("enter any number"))
